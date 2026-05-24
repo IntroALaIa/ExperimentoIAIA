@@ -1,0 +1,3 @@
+Modelo,Accuracy,Precision,Recall,F1_Score
+KNN,0.8587,0.8589,0.8587,0.8588
+Decision Tree,0.8982,0.8982,0.8982,0.8982

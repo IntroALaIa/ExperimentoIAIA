@@ -1,0 +1,2 @@
+Modelo,Mejor_K,Accuracy,Precision,Recall,F1_Score
+KNN,1,0.8587,0.8589,0.8587,0.8588
